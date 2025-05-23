@@ -1,0 +1,258 @@
+osm_id,name,highway,waterway,aerialway,barrier,man_made,railway,z_order,other_tags
+30778557,Kalpetta - Meppadi Road,primary,,,,,,7,"""alt_name""=>""Hill Highway"",""lanes""=>""2"",""maxspeed""=>""45"",""maxspeed:bus""=>""40"",""maxspeed:hgv""=>""40"",""maxspeed:motorcycle""=>""45"",""ref""=>""SH59"",""sidewalk""=>""none"",""surface""=>""asphalt"""
+380928378,Kalpetta - Meppadi Road,primary,,,,,,7,"""alt_name""=>""Hill Highway"",""lanes""=>""2"",""maxspeed""=>""45"",""maxspeed:bus""=>""40"",""maxspeed:hgv""=>""40"",""maxspeed:motorcycle""=>""45"",""ref""=>""SH59"",""sidewalk""=>""none"",""surface""=>""asphalt"""
+380928381,Kalpetta - Meppadi Road,tertiary,,,,,,4,
+380928384,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+380928388,Kalpetta - Meppadi Road,tertiary,,,,,,24,"""bridge""=>""yes"",""layer""=>""1"""
+380928389,Kalpetta - Meppadi Road,primary,,,,,,27,"""bridge""=>""yes"",""layer""=>""1"""
+380928392,Kalpetta - Meppadi Road,track,,,,,,0,"""motor_vehicle""=>""yes"""
+380928396,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+380928398,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+380928400,Kalpetta - Meppadi Road,tertiary,,,,,,4,
+380928404,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+380928406,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+380928408,Kalpetta - Meppadi Road,tertiary,,,,,,4,
+622581764,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581765,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581766,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581767,Kalpetta - Meppadi Road,service,,,,,,0,"""import""=>""yes"""
+622581768,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"",""surface""=>""unpaved"""
+622581769,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581770,Kalpetta - Meppadi Road,service,,,,,,0,"""import""=>""yes"""
+622581771,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581772,Kalpetta - Meppadi Road,track,,,,,,0,"""surface""=>""unpaved"""
+622581773,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581775,Kalpetta - Meppadi Road,service,,,,,,0,"""import""=>""yes"""
+622581778,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581782,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581785,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581788,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581790,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581791,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"",""surface""=>""unpaved"""
+622581792,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581793,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581795,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581797,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581798,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622581799,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581800,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581801,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581802,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"",""surface""=>""unpaved"""
+622581803,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581804,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622581805,Kalpetta - Meppadi Road,service,,,,,,0,"""import""=>""yes"""
+622913204,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913205,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913206,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913207,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913208,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913209,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913210,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913211,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913212,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913214,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913215,Kalpetta - Meppadi Road,track,,,,,,0,"""surface""=>""unpaved"""
+622913216,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913217,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913218,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913219,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913220,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913221,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622913222,Kalpetta - Meppadi Road,service,,,,,,0,"""import""=>""yes"""
+622913223,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913225,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913226,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913227,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913228,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913229,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913230,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622913233,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913234,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913235,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913237,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913240,Kalpetta - Meppadi Road,unclassified,,,,,,3,"""import""=>""yes"""
+622913241,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913242,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913243,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913245,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913246,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+622913247,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+622913250,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+623473774,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+629593180,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+629593181,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+629593183,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+713006863,Kalpetta - Meppadi Road,path,,,,,,0,"""bicycle""=>""yes"",""foot""=>""yes"",""horse""=>""yes"",""incline""=>""up"",""ski""=>""no"",""snowmobile""=>""no"",""surface""=>""pebblestone"",""trail_visibility""=>""good"",""wheelchair""=>""no"",""width""=>""2"""
+713089289,Kalpetta - Meppadi Road,path,,,,,,0,
+719896340,Kalpetta - Meppadi Road,track,,,,,,0,
+719896342,Kalpetta - Meppadi Road,track,,,,,,0,
+785570996,Kalpetta - Meppadi Road,residential,,,,,,3,
+794270378,Kalpetta - Meppadi Road,residential,,,,,,3,"""import""=>""yes"""
+794270379,Kalpetta - Meppadi Road,residential,,,,,,23,"""bridge""=>""yes"",""import""=>""yes"",""layer""=>""1"""
+794270380,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+794270381,Kalpetta - Meppadi Road,track,,,,,,20,"""bridge""=>""yes"",""import""=>""yes"",""layer""=>""1"",""surface""=>""unpaved"""
+794678800,Kalpetta - Meppadi Road,track,,,,,,0,"""import""=>""yes"",""surface""=>""unpaved"""
+794678801,Kalpetta - Meppadi Road,track,,,,,,-20,"""import""=>""yes"",""layer""=>""-1"",""surface""=>""unpaved"",""tunnel""=>""yes"""
+794678802,Kalpetta - Meppadi Road,tertiary,,,,,,4,
+794678803,Kalpetta - Meppadi Road,tertiary,,,,,,-16,"""layer""=>""-1"",""tunnel""=>""yes"""
+825798935,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+825798936,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+825798938,Kalpetta - Meppadi Road,unclassified,,,,,,3,
+859181488,Kalladi - GLPS meenakshivilas Road,unclassified,,,,,,3,"""ford""=>""yes"",""lanes""=>""1"",""maxspeed""=>""30"",""surface""=>""metal"""
+867393794,Kalladi - GLPS meenakshivilas Road,unclassified,,,,,,3,
+932269939,Kalladi - GLPS meenakshivilas Road,unclassified,,,,,,3,
+932271080,Kalladi - GLPS meenakshivilas Road,unclassified,,,,,,3,
+936313318,Kalladi - GLPS meenakshivilas Road,track,,,,,,0,
+1032077916,Anakkampoyil-Kalladi-Meppadi Road Tunnel,proposed,,,,,,-20,"""layer""=>""-1"",""proposed""=>""primary"",""tunnel""=>""yes"""
+1220183151,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220183152,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220183155,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220183156,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,
+1220183157,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220183158,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220183159,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220183160,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220185759,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,
+1220185760,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220185761,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220185762,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220185763,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220185764,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220185765,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220185766,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1220185767,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1220185768,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1220185769,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1220185770,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220186547,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186548,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186549,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186550,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186551,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186552,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186553,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220186554,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187507,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187508,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220187509,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220187510,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187511,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187512,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187513,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220187514,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190200,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190201,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190202,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190203,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190204,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190205,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190206,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190207,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220190208,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""surface""=>""unpaved"""
+1220191385,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220191386,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220191387,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220191388,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220191389,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220191390,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220191391,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,
+1220195978,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196475,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196476,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196477,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196478,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196479,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196480,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196482,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196483,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196484,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196485,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1220196486,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1303190353,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1303190354,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1303190355,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304695397,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304695877,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304695878,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304700373,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304702846,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,"""surface""=>""unpaved"""
+1304703923,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,"""surface""=>""unpaved"""
+1304703924,Anakkampoyil-Kalladi-Meppadi Road Tunnel,unclassified,,,,,,3,"""surface""=>""unpaved"""
+1304703925,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304704122,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304704123,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304704792,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304705132,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304705616,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304705617,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1304758104,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304758134,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304758191,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304758269,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304758392,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1304764663,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304764718,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304764732,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304764953,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304765010,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304765137,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304765142,Anakkampoyil-Kalladi-Meppadi Road Tunnel,footway,,,,,,0,
+1304774194,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304774195,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304774287,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304774288,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304775233,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304775567,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304775749,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304777072,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304777073,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304777524,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304777826,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304778564,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304778787,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304780456,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304780544,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799241,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799242,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799243,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799349,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799748,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799749,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304799782,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304800000,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304800524,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304801597,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304803196,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304803197,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304803198,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304803199,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304806477,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304806938,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304806939,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304811106,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304811283,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304811284,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304811363,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304812836,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304812838,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304813517,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304827574,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1304866455,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,
+1304866510,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,
+1305109414,Anakkampoyil-Kalladi-Meppadi Road Tunnel,path,,,,,,0,
+1305109480,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305389770,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305389771,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305391730,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305391731,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,
+1305391732,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305391733,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305391734,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305391735,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305391736,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,"""surface""=>""unpaved"""
+1305391737,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305391738,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,"""import""=>""yes"""
+1305391739,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305391740,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305391741,Anakkampoyil-Kalladi-Meppadi Road Tunnel,track,,,,,,0,
+1305881543,Anakkampoyil-Kalladi-Meppadi Road Tunnel,residential,,,,,,3,

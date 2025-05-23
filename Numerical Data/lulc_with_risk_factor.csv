@@ -1,0 +1,76 @@
+S.No,Classes,Area Sq. Km,RiskFactor
+1,Built up,15.171968,1
+2,Kharif crop,14.601216,0
+3,Rabi crop,15.902656,0
+4,Zaid crop,0.257152,0
+5,Double / Triple Crop,82.423488,0
+6,Current fallow,0.545664,1
+7,Plantation,195.971776,0
+8,Evergreen forest,261.551808,0
+9,Deciduous forest,1522.32416,0
+10,Degraded / Scrub Forest,3.04192,0
+11,Littoral swamp,0.0,0
+12,Grassland,4.380992,0
+13,Shifting cultivation,0.0,0
+14,Wasteland,9.270016,1
+15,Rann,0.0,0
+16,Waterbodies max,10.687488,0
+17,Waterbodies min,4.9392,0
+18,Snow cover,0.0,0
+Year : 2016-2017,,,0
+1,Built up,1475.839232,1
+2,Kharif crop,258.274688,0
+3,Rabi crop,659.663872,0
+4,Zaid crop,33.611648,0
+5,Double / Triple Crop,2170.265664,0
+6,Current fallow,344.059968,1
+7,Plantation,14071.52365,0
+8,Evergreen forest,4324.757248,0
+9,Deciduous forest,13748.31181,0
+10,Degraded / Scrub Forest,114.266432,0
+11,Littoral swamp,0.191296,0
+12,Grassland,16.47968,0
+13,Shifting cultivation,0.0,0
+14,Wasteland,695.937984,1
+15,Rann,0.0,0
+16,Waterbodies max,818.812736,0
+17,Waterbodies min,670.122432,0
+18,Snow cover,0.0,0
+Year : 2015-2016,,,0
+1,Built up,1469.877696,1
+2,Kharif crop,221.872,0
+3,Rabi crop,111.995968,0
+4,Zaid crop,6.25632,0
+5,Double / Triple Crop,2383.153024,0
+6,Current fallow,756.973952,1
+7,Plantation,14055.52378,0
+8,Evergreen forest,4331.487104,0
+9,Deciduous forest,13758.86758,0
+10,Degraded / Scrub Forest,114.410688,0
+11,Littoral swamp,0.191296,0
+12,Grassland,16.504768,0
+13,Shifting cultivation,0.0,0
+14,Wasteland,696.947776,1
+15,Rann,0.0,0
+16,Waterbodies max,784.843584,0
+17,Waterbodies min,693.284928,0
+18,Snow cover,0.0,0
+Year : 2014-2015,,,0
+1,Built up,1475.328,1
+2,Kharif crop,1472.619,0
+3,Rabi crop,316.5949,0
+4,Zaid crop,77.04525,0
+5,Double / Triple Crop,849.1724,0
+6,Current fallow,638.7687,1
+7,Plantation,14066.29,0
+8,Evergreen forest,4324.729,0
+9,Deciduous forest,13747.74,0
+10,Degraded / Scrub Forest,114.3856,0
+11,Littoral swamp,0.191296,0
+12,Grassland,17.58042,0
+13,Shifting cultivation,0.0,0
+14,Wasteland,782.8616,1
+15,Rann,0.0,0
+16,Waterbodies max,973.5492,0
+17,Waterbodies min,545.3818,0
+18,Snow cover,0.0,0
